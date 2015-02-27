@@ -1,0 +1,12 @@
+{
+  "name": "weekendbot",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.11.2",
+    "node-schedule": "^0.2.1",
+    "node-twitter-api": "^1.5.0",
+    "passport": "^0.2.1",
+    "passport-twitter": "^1.0.2",
+    "twitter": "^1.2.1"
+  }
+}
